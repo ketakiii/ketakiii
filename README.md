@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Data Engineer who focuses on building scalable and robust pipelines and intelligent, production-ready ML systems.
+I am a Data Engineer who focuses on building scalable and robust ETL pipelines and intelligent, production-ready ML systems.
 
 My interests span:
 - Applied machine learning for structured and time series data  
