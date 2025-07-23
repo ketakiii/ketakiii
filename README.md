@@ -17,7 +17,7 @@ But I’m not just about code — I love dancing, art, and writing deep-dives on
   Hybrid retrievers + visual search + multimodal LLM interaction
 ---
 
-## ✍️ My Latest Blog Posts
+## My Latest Blog Posts
 - [Flash Attention: Beginning the IO-Aware Model Era](https://medium.com/@ketaki.kolhatkar99/flash-attention-beginning-the-io-aware-model-era-96ff25a09d50)
 - [Think Faster with Speculative Decoding]([https://medium.com/@ketaki.kolhatkar99/...](https://medium.com/@ketaki.kolhatkar99/think-faster-with-speculative-decoding-05ff1ea7c470))
 - [Apple Takes Off the Rose-Tinted Glasses on LLMs]([https://medium.com/@ketaki.kolhatkar99/...](https://medium.com/@ketaki.kolhatkar99/apple-takes-off-the-rose-tinted-glasses-on-llms-c6baba1af9af))
