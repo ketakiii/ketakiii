@@ -11,6 +11,7 @@ My interests span:
 But I’m not just about code — I love dancing, art, and writing deep-dives on machine learning, intelligent agents, and cutting-edge AI.
 
 ---
+
 ## Currently Working On
 - **NOG Stock Forecasting AI Agent**  
   Combining ML + RAG + RL with live market and macro data  
@@ -18,6 +19,7 @@ But I’m not just about code — I love dancing, art, and writing deep-dives on
   Hybrid retrievers + visual search + multimodal LLM interaction
   
 ---
+
 ## My Latest Blog Posts
 - [Your Language Model is Secretly a Reward Model](https://medium.com/@ketaki.kolhatkar99/your-language-model-is-secretly-a-reward-model-9559a80ce9c2)
 - [Flash Attention: Beginning the IO-Aware Model Era](https://medium.com/@ketaki.kolhatkar99/flash-attention-beginning-the-io-aware-model-era-96ff25a09d50)
