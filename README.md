@@ -27,6 +27,7 @@ But I’m not just about code — I love dancing, art, and writing deep-dives on
 - [Apple Takes Off the Rose-Tinted Glasses on LLMs](https://medium.com/@ketaki.kolhatkar99/apple-takes-off-the-rose-tinted-glasses-on-llms-c6baba1af9af)
 - [From Code to Context: Software 3.0](https://medium.com/@ketaki.kolhatkar99/from-code-to-context-software-3-0-cb71c9e1cfb1)
 - [The Power of a Few: LoRa](https://medium.com/@ketaki.kolhatkar99/the-power-of-a-few-lora-fe4dd7b3bde4)
+- [Choose, Drop, Route: MOE vs MOD vs MOR](https://medium.com/@ketaki.kolhatkar99/choose-drop-route-moe-vs-mod-vs-mor-b553d38171c1)
 
 > I write to make technical concepts accessible — whether you're new to ML or building your own agents.
 ---
