@@ -21,6 +21,7 @@ But I’m not just about code — I love dancing, art, and writing deep-dives on
 ---
 
 ## My Latest Blog Posts
+- [GPT OSS: Architecture, Code Flow, GPU Setup and More!](https://medium.com/@ketaki.kolhatkar99/gpt-oss-architecture-code-flow-gpu-setup-and-more-a71d06d8bf71)
 - [Choose, Drop, Route: MOE vs MOD vs MOR](https://medium.com/@ketaki.kolhatkar99/choose-drop-route-moe-vs-mod-vs-mor-b553d38171c1)
 - [The Power of a Few: LoRa](https://medium.com/@ketaki.kolhatkar99/the-power-of-a-few-lora-fe4dd7b3bde4)
 - [Your Language Model is Secretly a Reward Model](https://medium.com/@ketaki.kolhatkar99/your-language-model-is-secretly-a-reward-model-9559a80ce9c2)
