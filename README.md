@@ -21,6 +21,7 @@ But I’m not just about code — I love dancing, art, and writing deep-dives on
 ---
 
 ## My Latest Blog Posts
+- [NVIDIA’s Iconic Pivot: From Championing Bigger Models to Betting on Small](https://medium.com/@ketaki.kolhatkar99/nvidias-iconic-pivot-from-championing-bigger-models-to-betting-on-small-22d8dad4485a)
 - [GPT OSS Part 2: HuggingFace Setup, PEFT and Gated Experts](https://medium.com/@ketaki.kolhatkar99/gpt-oss-part-2-huggingface-setup-peft-and-gated-experts-a0e553ee9632)
 - [GPT OSS: Architecture, Code Flow, GPU Setup and More!](https://medium.com/@ketaki.kolhatkar99/gpt-oss-architecture-code-flow-gpu-setup-and-more-a71d06d8bf71)
 - [Choose, Drop, Route: MOE vs MOD vs MOR](https://medium.com/@ketaki.kolhatkar99/choose-drop-route-moe-vs-mod-vs-mor-b553d38171c1)
