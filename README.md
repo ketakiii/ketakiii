@@ -35,3 +35,7 @@ But I’m not just about code — I love dancing, art, and writing deep-dives on
 > I write to make technical concepts accessible — whether you're new to ML or building your own agents.
 ---
 
+
+Leetcode:
+https://leetcode.com/u/ketakiiii/
+
